@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9a5feb78-75d4-8ab2-3ec9-ba58a368bf7c
 resourcetype: Document
 title: 21G.712_Ecologia,_Indigenas
 uid: b340e46c-8b69-e158-8623-ac3e469d6dde

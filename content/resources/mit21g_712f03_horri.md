@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9a5feb78-75d4-8ab2-3ec9-ba58a368bf7c
 resourcetype: Document
 title: 21G.712_Horripilante
 uid: aed7728f-d268-48e2-c49b-bff5b45ac0fa

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9a5feb78-75d4-8ab2-3ec9-ba58a368bf7c
 resourcetype: Document
 title: 21G.712_actividad_primer_dia_03
 uid: a5aa3941-85d0-ef9c-5476-4eb3a5d2ef26

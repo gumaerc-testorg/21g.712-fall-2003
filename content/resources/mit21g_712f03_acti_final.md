@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9a5feb78-75d4-8ab2-3ec9-ba58a368bf7c
 resourcetype: Document
 title: 21G_730S14_acti_final
 uid: 233a0df9-0061-1651-a3b2-49a7b00edebc
