@@ -5,6 +5,7 @@ file: /courses/21g-712-spanish-conversation-and-composition-fall-2003/aed7728fd2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21G.712_Horripilante
 uid: aed7728f-d268-48e2-c49b-bff5b45ac0fa
 ---
 This resource contains the information regarding horripilante.
-

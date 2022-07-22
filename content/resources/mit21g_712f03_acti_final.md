@@ -5,6 +5,7 @@ file: /courses/21g-712-spanish-conversation-and-composition-fall-2003/233a0df900
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21G_730S14_acti_final
 uid: 233a0df9-0061-1651-a3b2-49a7b00edebc
 ---
 This resource contains the information regarding acti final.
-

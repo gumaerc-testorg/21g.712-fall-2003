@@ -5,6 +5,7 @@ file: /courses/21g-712-spanish-conversation-and-composition-fall-2003/b340e46c8b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21G.712_Ecologia,_Indigenas
 uid: b340e46c-8b69-e158-8623-ac3e469d6dde
 ---
 This resource contains the information regarding indigenas.
-
