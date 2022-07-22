@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9a5feb78-75d4-8ab2-3ec9-ba58a368bf7c
 ---
@@ -32,7 +36,7 @@ Actividad
 Empezar video  (La lengua de las mariposas).
 {{< tdclose >}}
 {{< tdopen >}}
-Actividad para el primer día de clases ([PDF]({{< baseurl >}}/resources/mit21g_712f03_acti_primer))
+Actividad para el primer día de clases ({{% resource_link a5aa3941-85d0-ef9c-5476-4eb3a5d2ef26 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Actividad para el primer día de clases ([PDF]({{< baseurl >}}/resources/mit21g_
 (2) Manual, cap. 4.
 {{< tdclose >}}
 {{< tdopen >}}
-Ecología, Indígenas, Valores Culturales, Situación Económica y Laboral ([PDF]({{< baseurl >}}/resources/mit21g_712f03_eco_indig))
+Ecología, Indígenas, Valores Culturales, Situación Económica y Laboral ({{% resource_link b340e46c-8b69-e158-8623-ac3e469d6dde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,9 +130,9 @@ Ecología, Indígenas, Valores Culturales, Situación Económica y Laboral ([PDF
 (2) El cuento, cap. 22, "Emma Zunz." En fotocopia: "Historia del hombre que se convirtió en perro," y "La gente como nosotros."
 {{< tdclose >}}
 {{< tdopen >}}
-Situacion Horripilante ([PDF]({{< baseurl >}}/resources/mit21g_712f03_horri))  
+Situacion Horripilante ({{% resource_link aed7728f-d268-48e2-c49b-bff5b45ac0fa "PDF" %}})  
   
-Convenio de Ginebra relativo al trato debido a los prisioneros de guerra (Convenio III) ([PDF]({{< baseurl >}}/resources/mit21g_712f03_con_gine))
+Convenio de Ginebra relativo al trato debido a los prisioneros de guerra (Convenio III) ({{% resource_link 68f635d7-cc40-1795-7d41-50e0df4f0cb3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ Manual, cap. 6
 Fotocopia: "Los inmigrantes"
 {{< tdclose >}}
 {{< tdopen >}}
-Selecciones ([PDF]({{< baseurl >}}/resources/mit21g_712f03_2003))
+Selecciones ({{% resource_link 3656e16e-86a2-edf3-74c9-a64b049d7f1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Manual, cap. 7
 Fotocopias: "Indicio pánico No. 16," "La isla a mediodía," "La muñeca menor;" El cuento, cap. 33, "Axolotl."
 {{< tdclose >}}
 {{< tdopen >}}
-Canjear Situacones Extrañas ([PDF]({{< baseurl >}}/resources/mit21g_712f03_canj_si_aci))
+Canjear Situacones Extrañas ({{% resource_link decf0d81-b2c4-a49f-d010-303808d63893 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +220,7 @@ Manual, cap. 8
 Estudiar para Examen Escrito (todo desde el 22 de octubre)
 {{< tdclose >}}
 {{< tdopen >}}
-Actividad Final ([PDF]({{< baseurl >}}/resources/mit21g_712f03_acti_final))
+Actividad Final ({{% resource_link 233a0df9-0061-1651-a3b2-49a7b00edebc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
