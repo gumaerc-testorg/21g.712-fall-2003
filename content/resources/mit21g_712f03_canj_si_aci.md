@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding situaciones.
-file: /ol-ocw-studio-app/courses/21g-712-spanish-conversation-and-composition-fall-2003/decf0d81b2c4a49fd010303808d63893_MIT21G_712F03_canj_si_aci.pdf
+file: /courses/21g-712-spanish-conversation-and-composition-fall-2003/decf0d81b2c4a49fd010303808d63893_MIT21G_712F03_canj_si_aci.pdf
 file_size: 593811
 file_type: application/pdf
 learning_resource_types:
